@@ -1,0 +1,272 @@
+[
+  {
+    "width": 360,
+    "horizontalScroll": {
+      "overflowX": 0,
+      "offenders": []
+    },
+    "header": {
+      "headerH": 57,
+      "navH": 44,
+      "navWraps": false,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 44,
+          "textShown": false,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 44,
+          "textShown": false,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 44,
+          "textShown": false,
+          "truncated": false
+        }
+      ]
+    },
+    "tapTargetsUnder44": [],
+    "overlaps": [],
+    "truncated": [],
+    "specTable": {
+      "scrollable": true,
+      "overflowX": "auto",
+      "hintVisible": true,
+      "stickyFirstCol": true
+    },
+    "keyboard": [
+      {
+        "field": "name",
+        "bottom": 273,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      },
+      {
+        "field": "email",
+        "bottom": 361,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      },
+      {
+        "field": "phone",
+        "bottom": 407,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      },
+      {
+        "field": "productInterest",
+        "bottom": 273,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      }
+    ],
+    "consoleErrors": []
+  },
+  {
+    "width": 390,
+    "horizontalScroll": {
+      "overflowX": 0,
+      "offenders": []
+    },
+    "header": {
+      "headerH": 57,
+      "navH": 44,
+      "navWraps": false,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 44,
+          "textShown": false,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 44,
+          "textShown": false,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 44,
+          "textShown": false,
+          "truncated": false
+        }
+      ]
+    },
+    "tapTargetsUnder44": [],
+    "overlaps": [],
+    "truncated": [],
+    "specTable": {
+      "scrollable": true,
+      "overflowX": "auto",
+      "hintVisible": true,
+      "stickyFirstCol": true
+    },
+    "keyboard": [
+      {
+        "field": "name",
+        "bottom": 273,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      },
+      {
+        "field": "email",
+        "bottom": 361,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      },
+      {
+        "field": "phone",
+        "bottom": 407,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      },
+      {
+        "field": "productInterest",
+        "bottom": 273,
+        "vh": 407,
+        "hiddenBelow": false,
+        "underHeader": false
+      }
+    ],
+    "consoleErrors": []
+  },
+  {
+    "width": 768,
+    "horizontalScroll": {
+      "overflowX": 0,
+      "offenders": []
+    },
+    "header": {
+      "headerH": 65,
+      "navH": 44,
+      "navWraps": false,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 167,
+          "textShown": true,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 117,
+          "textShown": true,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 101,
+          "textShown": true,
+          "truncated": false
+        }
+      ]
+    },
+    "tapTargetsUnder44": [],
+    "overlaps": [],
+    "truncated": [],
+    "specTable": {
+      "scrollable": false,
+      "overflowX": "auto",
+      "hintVisible": false,
+      "stickyFirstCol": true
+    },
+    "consoleErrors": []
+  },
+  {
+    "width": 1024,
+    "horizontalScroll": {
+      "overflowX": 0,
+      "offenders": []
+    },
+    "header": {
+      "headerH": 65,
+      "navH": 44,
+      "navWraps": false,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 167,
+          "textShown": true,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 117,
+          "textShown": true,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 101,
+          "textShown": true,
+          "truncated": false
+        }
+      ]
+    },
+    "tapTargetsUnder44": [],
+    "overlaps": [],
+    "truncated": [],
+    "specTable": {
+      "scrollable": false,
+      "overflowX": "auto",
+      "hintVisible": false,
+      "stickyFirstCol": true
+    },
+    "consoleErrors": []
+  },
+  {
+    "width": 1440,
+    "horizontalScroll": {
+      "overflowX": 0,
+      "offenders": []
+    },
+    "header": {
+      "headerH": 65,
+      "navH": 44,
+      "navWraps": false,
+      "buttons": [
+        {
+          "h": 44,
+          "w": 167,
+          "textShown": true,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 117,
+          "textShown": true,
+          "truncated": false
+        },
+        {
+          "h": 44,
+          "w": 101,
+          "textShown": true,
+          "truncated": false
+        }
+      ]
+    },
+    "tapTargetsUnder44": [],
+    "overlaps": [],
+    "truncated": [],
+    "specTable": {
+      "scrollable": false,
+      "overflowX": "auto",
+      "hintVisible": false,
+      "stickyFirstCol": true
+    },
+    "consoleErrors": []
+  }
+]
